@@ -1,0 +1,13 @@
+var myDog = {
+// Only change code below this line
+"name":"coco",
+"legs":4,
+"tails":1,
+"friends":["humans","sticks"]
+
+
+
+// Only change code above this line
+};
+
+console.log(myDog)
